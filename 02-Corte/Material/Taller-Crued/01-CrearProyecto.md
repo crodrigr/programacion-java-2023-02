@@ -176,3 +176,19 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 <br>
 <br>
 <br>
+
+
+
+## 5.5 ClienteController - /eliminar
+
+
+<br>
+<br>
+
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/fb2e9115-2a45-48aa-90ba-10cb962a0130)
+
+<br>
+<br>
+<br>
+<br>
