@@ -46,7 +46,7 @@ Dentro del paquete **persistences** se crea un nuevo paqute **documents**, en el
 <br>
 <br>
 
-## 2. ClienteDocument
+## 3. ClienteRepository
 
 <br>
 <br>
