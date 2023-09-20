@@ -239,6 +239,7 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 
 ```html
 
+
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
@@ -290,7 +291,7 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 					<td th:text="${cliente.nombre}"></td>
 					<td th:text="${cliente.apellido}"></td>
 					<td th:text="${cliente.email}"></td>
-					<td th:text="${cliente.createAt}"></td>
+					<td th:text="${#dates.format(cliente.createAt, 'yyyy-MM-dd')}"></td>
 					<td><a class="btn btn-primary btn-xs" th:href="@{/form/} + ${cliente.id}" th:text="'editar'"></a></td>
 					<td><a class="btn btn-danger btn-xs" th:href="@{/eliminar/} + ${cliente.id}" th:text="'eliminar'" onclick="return confirm('Estás seguro que quieres eliminar?');"></a></td>
 				</tr>
@@ -305,6 +306,7 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 		src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
 </html>
+
 
 ```
 
