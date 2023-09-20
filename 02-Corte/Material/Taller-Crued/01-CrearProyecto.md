@@ -313,7 +313,7 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 <br>
 <br>
 
-### 9.1 listar.html
+### 9.2 form.html
 
 <br>
 <br>
