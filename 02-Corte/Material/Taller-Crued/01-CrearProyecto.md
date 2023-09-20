@@ -39,8 +39,8 @@ Este proyecto va tener tres capas: controllers, businnes, persistences
 
 Dentro del paquete **persistences** se crea un nuevo paqute **documents**, en el cual, van todas las clases de tipo documents. Se crea **ClienteDocument.java** va ser la clase se que va a mapear con la base de datos de mongo.
 
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/85d2079b-c453-422b-9fc1-a96788bd2575)
 
-![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/033ebe9e-aace-4f87-a282-b3ad4451ee5d)
 
 <br>
 <br>
