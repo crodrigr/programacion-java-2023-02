@@ -127,7 +127,7 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 
 
 <br>
-<br>
+<br>import javax.validation.Valid;
 
 
 ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/dd826bb4-e449-4eb5-a336-e0e26cebaa17)
@@ -145,6 +145,31 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 
 
 ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/7075f17e-f3c9-4dc5-a4ea-6ec6513e807f)
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+## 5.4 ClienteController - /form  post
+
+
+<br>
+<br>
+
+
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/3f68db53-8d55-4946-b459-474d9ad37226)
+
+
+<br>
+<br>
+
+Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** y se importa **import javax.validation.Valid;**
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/43dc8805-415e-45c8-8ade-5c8a695d2622)
 
 
 <br>
