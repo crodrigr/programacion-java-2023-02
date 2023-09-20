@@ -45,3 +45,17 @@ Dentro del paquete **persistences** se crea un nuevo paqute **documents**, en el
 <br>
 <br>
 <br>
+
+## 2. ClienteDocument
+
+<br>
+<br>
+
+Se crea dentro del paqute **persistences** el paquete **repositories**, cual va tener la inferface **ClienteRepository.java** que hereda de **CruedRepository** que tiene métodos del **crued** que va aplicar para **ClienteDocument**
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/a9848d93-a5cc-4e8f-a9f0-41ef7896bce1)
+
+<br>
+<br>
+<br>
+<br>
