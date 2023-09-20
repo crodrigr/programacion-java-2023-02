@@ -161,7 +161,8 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 
 
 
-![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/3f68db53-8d55-4946-b459-474d9ad37226)
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/bf795689-0cf1-4eba-97cf-06f801bffb5f)
+
 
 
 <br>
