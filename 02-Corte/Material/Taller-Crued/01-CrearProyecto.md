@@ -89,3 +89,34 @@ Se crea el paqute **impl** donde se coloca la implementación de las interfaces 
 <br>
 <br>
 <br>
+
+
+## 5. ClienteController
+
+
+<br>
+<br>
+
+Se crea la clase de tipo controller, la cual, van se consume los servicios que están en la capa **businness** a través de la inyección de independencia. 
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/fd95a86b-5c15-49ba-acb6-8b3c71723ca5)
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+## 5.1 ClienteController - Listar
+
+
+<br>
+<br>
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/334512ba-a7d2-41c0-ae74-4f29dd6c0fec)
+
+
+<br>
+<br>
+<br>
