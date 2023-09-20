@@ -202,3 +202,18 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 
 ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/1574f2db-437f-4d07-8cda-6f0b4221b306)
 
+<br>
+<br>
+<br>
+<br>
+
+
+## 8. Configuración messages.properties
+
+
+<br>
+<br>
+
+
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/9b3b9310-3225-4455-a599-af90d8f73271)
