@@ -9,7 +9,8 @@
 <br>
 <br>
 
-![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/a3085a58-833a-441b-b08d-ed5d7f90a019)
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/6d54a55f-37de-49e1-9684-b85786588c7b)
+
 
 <br>
 <br>
@@ -136,7 +137,7 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 <br>
 <br>
 
-## 5.1 ClienteController - /form/{id}
+## 5.3 ClienteController - /form/{id}
 
 
 <br>
