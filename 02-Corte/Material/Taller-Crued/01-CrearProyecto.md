@@ -92,7 +92,7 @@ Se crea el paqute **impl** donde se coloca la implementación de las interfaces 
 <br>
 
 
-## 5. ClienteController
+## 6. ClienteController
 
 
 <br>
@@ -109,7 +109,7 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 <br>
 
 
-## 5.1 ClienteController - /istar
+### 6.1 ClienteController - /istar
 
 
 <br>
@@ -123,7 +123,7 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 <br>
 <br>
 
-## 5.2 ClienteController - /form
+### 6.2 ClienteController - /form
 
 
 <br>
@@ -137,7 +137,7 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 <br>
 <br>
 
-## 5.3 ClienteController - /form/{id}
+### 6.3 ClienteController - /form/{id}
 
 
 <br>
@@ -153,7 +153,7 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 <br>
 
 
-## 5.4 ClienteController - /form  post
+### 6.4 ClienteController - /form  post
 
 
 <br>
@@ -179,7 +179,7 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 
 
 
-## 5.5 ClienteController - /eliminar
+### 6.5 ClienteController - /eliminar
 
 
 <br>
@@ -192,3 +192,13 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 <br>
 <br>
 <br>
+
+## 7. Configuración base datos en mongo
+
+
+<br>
+<br>
+
+
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/1574f2db-437f-4d07-8cda-6f0b4221b306)
+
