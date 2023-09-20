@@ -21,9 +21,10 @@
 <br>
 <br>
 
-Este proyecto va tener tres capas: controller, businnes, persistences
+Este proyecto va tener tres capas: controllers, businnes, persistences
 
-![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/b0125b0d-f800-4e85-978c-4ce63cf491d7)
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/2f43b349-9502-4076-a2e6-4cc1c57b7fec)
+
 
 <br>
 <br>
