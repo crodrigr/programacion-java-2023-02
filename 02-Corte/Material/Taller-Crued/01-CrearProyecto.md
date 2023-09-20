@@ -402,10 +402,8 @@ Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** 
 </body>
 </html>
 
-```<br>
-<br>
-<br>
-<br>
+```
+
 <br>
 <br>
 <br>
