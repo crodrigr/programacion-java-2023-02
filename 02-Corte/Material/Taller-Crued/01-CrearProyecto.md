@@ -109,7 +109,7 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 <br>
 
 
-### 6.1 ClienteController - /istar
+### 6.1 ClienteController - /listar
 
 
 <br>
@@ -167,16 +167,10 @@ Se crea la clase de tipo controller, la cual, van se consume los servicios que e
 
 <br>
 <br>
-
-Para usar **@Valid** de debe colocar la siguiente dependencia en el **pom.xml** y se importa **import javax.validation.Valid;**
-
-![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/43dc8805-415e-45c8-8ade-5c8a695d2622)
-
-
 <br>
 <br>
-<br>
-<br>
+
+
 
 
 
