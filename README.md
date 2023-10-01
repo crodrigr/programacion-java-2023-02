@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[Codigo fuente](https://github.com/crodrigr/programacion-java-2023-code.git)
+[Codigo fuente](https://github.com/crodrigr/programacion-java-uts-2023-crud-cliente)
 
 ## Calendario académico 
 
