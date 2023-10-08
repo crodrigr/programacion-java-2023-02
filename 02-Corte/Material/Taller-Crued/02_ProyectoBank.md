@@ -40,6 +40,11 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
      - **Datos del credito**
          - fecha del credito
          - monto a solicitar
+
+  **Veamos un ejemplo:** El api del banco recibe una petición **/complete/{meses}/{monto}** que hace referencia a un solicitud completa, el cual, va por el path los meses que va tener el crédito y el monto a solicitar. Por el **BodyRequest** van los datos del cliente, necesario para calcular la capacidad de **endeudamiento** y registrar el cliente en el banco con su crédito si es aprobando. En este caso la solicitud es aprobada por que tiene una capcidad de **6'000000** y como no tiene ningún crédito puede solicitar al 100% de su capacidad de endeudamiento. 
+  
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/707f4c78-cdb5-4863-a8ed-1a87a0e3ba61)
+
       
        
       
