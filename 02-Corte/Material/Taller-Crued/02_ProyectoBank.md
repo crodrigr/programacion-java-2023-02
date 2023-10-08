@@ -35,19 +35,21 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
   Este escenario el cliento no se encuentra registrado en el banco por lo tanto No tiene ningún credito vigente o culminado. Por lo tanto, la solicitud debe ser completa con la siguente información: 
    
   Datos del cliente:
-     - nombres
-     - apellidos
-     - documento de identificación
-     - email
-     - celular
-     - direccion
-     - ingresos mensuales
-     - Capacidad endeudamiento: este es un valor que se calcula con los creditos vigentes si los tiene. 
+  
+       - nombres
+       - apellidos
+       - documento de identificación
+       - email
+       - celular
+       - direccion
+       - ingresos mensuales
+       - Capacidad endeudamiento: este es un valor que se calcula con los creditos vigentes si los tiene. 
          
   Datos del credito:
-     - fecha del credito
-     - monto a solicitar
-        
+  
+       - fecha del credito
+       - monto a solicitar
+          
 
   **Veamos un ejemplo:** El api del banco recibe una petición **/complete/{meses}/{monto}** que hace referencia a un solicitud completa, el cual, va por el path los meses que va tener el crédito y el monto a solicitar. Por el **BodyRequest** van los datos del cliente, necesario para calcular la capacidad de **endeudamiento** y registrar el cliente en el banco con su crédito si es aprobando. En este caso la solicitud es aprobada por que tiene una capcidad de **6'000000** y como no tiene ningún crédito puede solicitar al 100% de su capacidad de endeudamiento. 
   
