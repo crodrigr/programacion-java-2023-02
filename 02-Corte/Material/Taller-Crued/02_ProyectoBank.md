@@ -7,7 +7,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 **El Banco Nacional** tiene las siguiente politicas de cŕeditos para el proceso de aprobación de una solicitud de credito.
 
 
-### Cliente con vida créditicia:
+## 1. Cliente con vida créditicia:
 
   Este escenario tiene los siguientes requerimientos
     - Un cliente con vida créditicia debe tener créditos vigentes o créditos culminados, entonces se debe validar que todos sus 
@@ -28,7 +28,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 
   ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/80496b3d-b826-45b9-beaf-9347f67e1389)
 
-  ### Cliente sin vida créditicia:
+  ## 2. Cliente sin vida créditicia:
   
    Este escenario el cliento no se encuentra registrado en el banco por lo tanto No tiene ningún credito vigente o culminado. Por lo tanto, la solicitud debe ser completa con la 
    siguente información: 
@@ -51,7 +51,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/707f4c78-cdb5-4863-a8ed-1a87a0e3ba61)
 
       
-## Modelo de paquete y de clases
+## 3. Modelo de paquete y de clases
 
 <br>
 
