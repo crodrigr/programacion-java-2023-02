@@ -26,7 +26,9 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 
   ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/80496b3d-b826-45b9-beaf-9347f67e1389)
 
-- **Cliente sin vida créditicia**: este escenario el cliento no se encuentra registrado en el banco por lo tanto No tiene ningún credito vigente o culminado. Por lo tanto, la solicitud debe ser completa con la 
+  ### Cliente sin vida créditicia:
+  
+   Este escenario el cliento no se encuentra registrado en el banco por lo tanto No tiene ningún credito vigente o culminado. Por lo tanto, la solicitud debe ser completa con la 
    siguente información: 
     - **Datos del cliente:**
          - nombres
