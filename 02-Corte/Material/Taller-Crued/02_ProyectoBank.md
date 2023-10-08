@@ -7,7 +7,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 **El Banco Nacional** tiene las siguiente politicas de cŕeditos para el proceso de aprobación de una solicitud de credito.
 
 
-- **Cliente con vida créditicia**: este escenario las siguientes requerimientos
+- **Cliente con vida créditicia**: este escenario tiene los siguientes requerimientos
     - Un cliente con vida créditicia debe tener créditos vigentes o créditos culminados, entonces se debe validar que todos sus 
       créditos esten al día y no tenga ninguna mora.
     - El mónto para aprobación corresponde a la capacidad de **endeudamiento** que corresponde a tres veces a los ingresos mensuales, adicional se debe calcular cuanto es 
