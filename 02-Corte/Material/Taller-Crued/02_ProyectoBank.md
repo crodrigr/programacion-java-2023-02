@@ -10,6 +10,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 ## 1. Cliente con vida créditicia:
 
   Este escenario tiene los siguientes requerimientos
+  
     - Un cliente con vida créditicia debe tener créditos vigentes o créditos culminados, entonces se debe validar que todos sus 
       créditos esten al día y no tenga ninguna mora.
     - El mónto para aprobación corresponde a la capacidad de **endeudamiento**; tres veces del ingreso mensual, adicional se debe calcular cuanto es 
