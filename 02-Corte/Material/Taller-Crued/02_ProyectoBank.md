@@ -10,7 +10,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 - **Cliente con vida créditicia**: este escenario tiene los siguientes requerimientos
     - Un cliente con vida créditicia debe tener créditos vigentes o créditos culminados, entonces se debe validar que todos sus 
       créditos esten al día y no tenga ninguna mora.
-    - El mónto para aprobación corresponde a la capacidad de **endeudamiento**; tres veces a los ingresos mensuales, adicional se debe calcular cuanto es 
+    - El mónto para aprobación corresponde a la capacidad de **endeudamiento**; tres veces del ingreso mensual, adicional se debe calcular cuanto es 
       el porcentaje total que ha cancelado de los créditos vigentes. A continuación se ve la información de un crédito que tiene un cliente.
       
       ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/d916d993-e7ab-4c90-a792-ecb159692a92)
