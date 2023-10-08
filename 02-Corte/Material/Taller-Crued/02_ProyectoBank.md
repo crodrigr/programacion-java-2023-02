@@ -53,9 +53,15 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci√
       
 ## Modelo de paquete y de clases
 
+<br>
+**Diagrama de paquete**
+
 ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/00fb34b7-fbc0-491c-9a40-c358507413b2)
 
-      
+<br>
+**Diagrama de clases**
+![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/6d7dbe1c-3f08-4125-81a8-e7905a296d7b)
+
       
 
 
