@@ -33,7 +33,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci√
    Este escenario el cliento no se encuentra registrado en el banco por lo tanto No tiene ning√∫n credito vigente o culminado. Por lo tanto, la solicitud debe ser completa con la 
    siguente informaci√≥n: 
    
-    - **Datos del cliente:**
+    **Datos del cliente:**
          - nombres
          - apellidos
          - documento de identificaci√≥n
@@ -42,7 +42,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci√
          - direccion
          - ingresos mensuales
          - Capacidad endeudamiento: este es un valor que se calcula con los creditos vigentes si los tiene. 
-     - **Datos del credito**
+     **Datos del credito**
          - fecha del credito
          - monto a solicitar
 
