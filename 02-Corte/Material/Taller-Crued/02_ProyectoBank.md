@@ -15,5 +15,15 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
       
       ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/d916d993-e7ab-4c90-a792-ecb159692a92)
 
-      En este caso este credito lleva un 25% de pago. 
+      En este caso este credito lleva un 25% de pago.
+
+  **Veamos un ejemplo:** El api del banco recibe una petición /fast que hace referencia a un cŕedito rápido que la primer opción. El primer valor corresponde al documento 
+    del cliente y el segundo al el monto a solicitar. En este caso se va aplicar el caso el cliente tiene vida créditica, por lo tanto, está registrado en el banco, con 
+    créditos vigentes o finalizados. Vamos a simular que el cliente tiene un crédito y con la siguiente información:
+    - ingresos mensuales: $3'000000
+    - Un credito vigente por **$2'000000** del cual está al día y tiene un pago del **50%**, por lo tanto, su capacidad de endeudamiento es: **2'000000** y su solicitud 
+      de crédito es de **$2'000000**. En entoces el banco aprueba el crédito del cliente por el monto solicitado.  
+
+  ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/80496b3d-b826-45b9-beaf-9347f67e1389)
+
 
