@@ -15,7 +15,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
       
       ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/d916d993-e7ab-4c90-a792-ecb159692a92)
 
-      En este caso este credito lleva un 25% de pago.
+      **En este caso este credito lleva un 25% de pago.**
 
   **Veamos un ejemplo:** El api del banco recibe una petición /fast que hace referencia a un cŕedito rápido que la primer opción. El primer valor corresponde al documento 
     del cliente y el segundo al el monto a solicitar. En este caso se va aplicar el caso el cliente tiene vida créditica, por lo tanto, está registrado en el banco, con 
