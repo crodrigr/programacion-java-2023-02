@@ -15,9 +15,9 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
     - El mónto para aprobación corresponde a la capacidad de **endeudamiento**; tres veces del ingreso mensual, adicional se debe calcular cuanto es 
       el porcentaje total que ha cancelado de los créditos vigentes. A continuación se ve la información de un crédito que tiene un cliente.
       
-      ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/d916d993-e7ab-4c90-a792-ecb159692a92)
+  ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/d916d993-e7ab-4c90-a792-ecb159692a92)
 
-      **En este caso este credito lleva un 25% de pago.**
+  **En este caso este credito lleva un 25% de pago.**
 
   **Veamos un ejemplo:** El api del banco recibe una petición /fast que hace referencia a un cŕedito rápido que la primer opción. El primer valor corresponde al documento 
     del cliente y el segundo al el monto a solicitar. En este caso se va aplicar el caso el cliente tiene vida créditica, por lo tanto, está registrado en el banco, con 
@@ -25,15 +25,16 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
     - ingresos mensuales: $3'000000
     - Un credito vigente por **$2'000000** del cual está al día y tiene un pago del **50%**, por lo tanto, su capacidad de endeudamiento es: **2'000000** y su solicitud 
       de crédito es de **$2'000000**. En entoces el banco aprueba el crédito del cliente por el monto solicitado.  
+      
 
   ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/80496b3d-b826-45b9-beaf-9347f67e1389)
+  
 
   ## 2. Cliente sin vida créditicia:
   
-   Este escenario el cliento no se encuentra registrado en el banco por lo tanto No tiene ningún credito vigente o culminado. Por lo tanto, la solicitud debe ser completa con la 
-   siguente información: 
+  Este escenario el cliento no se encuentra registrado en el banco por lo tanto No tiene ningún credito vigente o culminado. Por lo tanto, la solicitud debe ser completa con la siguente información: 
    
-    **Datos del cliente:**
+  **Datos del cliente:**
          - nombres
          - apellidos
          - documento de identificación
@@ -42,9 +43,11 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
          - direccion
          - ingresos mensuales
          - Capacidad endeudamiento: este es un valor que se calcula con los creditos vigentes si los tiene. 
-     **Datos del credito**
+         
+  **Datos del credito**
          - fecha del credito
          - monto a solicitar
+        
 
   **Veamos un ejemplo:** El api del banco recibe una petición **/complete/{meses}/{monto}** que hace referencia a un solicitud completa, el cual, va por el path los meses que va tener el crédito y el monto a solicitar. Por el **BodyRequest** van los datos del cliente, necesario para calcular la capacidad de **endeudamiento** y registrar el cliente en el banco con su crédito si es aprobando. En este caso la solicitud es aprobada por que tiene una capcidad de **6'000000** y como no tiene ningún crédito puede solicitar al 100% de su capacidad de endeudamiento. 
   
