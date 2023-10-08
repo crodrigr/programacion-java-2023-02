@@ -54,7 +54,8 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 ## Modelo de paquete y de clases
 
 <br>
-**Diagrama de paquete**
+
+**Diagrama de paquete:** El api de banco inicialmente va tener dos **endpoint** o **servicio** que son: el crédito fast y el crédito complete, los cuales, devuelven un aprobado o un rechazado. El aprobado no significa que se apruebe al 100% del monto solicitado, depende de la capacidad de endeudamiento. 
 
 ![image](https://github.com/crodrigr/programacion-java-2023-02/assets/31961588/00fb34b7-fbc0-491c-9a40-c358507413b2)
 
