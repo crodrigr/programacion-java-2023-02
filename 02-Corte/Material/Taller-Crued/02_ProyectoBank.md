@@ -22,7 +22,7 @@ Un sistema de **Ecommerces** para realizar sus ventas en caliente tiene la opci�
 
   **En este caso este credito lleva un 25% de pago.**
 
-  **Veamos un ejemplo:** El api del banco recibe una petición /fast que hace referencia a un cŕedito rápido que la primer opción. El primer valor corresponde al documento 
+  **Veamos un ejemplo:** El api del banco recibe una petición **/fast** que hace referencia a un cŕedito rápido, la primera opción. El primer valor corresponde al documento. 
     del cliente y el segundo al el monto a solicitar. En este caso se va aplicar el caso el cliente tiene vida créditica, por lo tanto, está registrado en el banco, con 
     créditos vigentes o finalizados. Vamos a simular que el cliente tiene un crédito y con la siguiente información:
     
