@@ -9,8 +9,8 @@ de **uno a muchos**
 
 Desarrolle un **api** que va tener un dos servicios:
 
-  - Listar todos los libros con sus autores "/libros/"
-  - Obtener un libro por **ISBN**           "/libros/058bn4"
+  - Listar todos los libros con sus autores: **"/libros/"**
+  - Obtener un libro por **ISBN**:           **"/libros/058bn4"**
 
 La base de datos a utilizar es **h2** y debe generar los scripts haga el insert de 10 ejemplares con sus respectivos autores. Cree libros donde tenga uno o varios autores.
 
