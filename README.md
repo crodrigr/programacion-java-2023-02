@@ -7,6 +7,8 @@
 
 [Codigo fuente](https://github.com/crodrigr/programacion-java-uts-2023-crud-cliente)
 
+[Codigo relaciones one to many - jsonignorepropesties](https://github.com/crodrigr/spring-boot-relation-one-to-many)
+
 ## Calendario académico 
 
 <br>
