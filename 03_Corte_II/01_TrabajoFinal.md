@@ -66,6 +66,9 @@ Se requiere el desarrollo de una API RESTful con Spring Boot para administrar un
    - Consultar y actualizar información de envíos de ayuda humanitaria.
    - Listar envíos de ayuda humanitaria por profesión de los voluntarios.
 
+8. **Reportes**
+   - En construcción. 
+
 
 **Tecnologías Utilizadas:**
 - Spring Boot para el desarrollo del API RESTful.
