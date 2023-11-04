@@ -70,11 +70,13 @@ Se requiere el desarrollo de una API RESTful con Spring Boot para administrar un
 **Tecnologías Utilizadas:**
 - Spring Boot para el desarrollo del API RESTful.
 - Spring Data JPA para el acceso a la base de datos.
+- Usar DTO. En la capa externa (**controllers**) no se debe exponer las clases entities, por lo tanto, se debe usar DTO, además de ser un buena práctica se soluciona el problema de loop de **serializable** y no es necesario de resolverlo con **@JsonIgnoreProperties**
 - Base de datos relacional **H2** (Opcional por ejemplo, MySQL, PostgreSQL) para almacenar los datos.
 
 
 **Entregables:**
-- Código fuente de la API desarrollada en Spring Boot.  
+- Código fuente de la API desarrollada en Spring Boot.
+- Diagrama de clases
 
 **Plazo de Entrega:**
 El proyecto debe ser entregado en [indicar plazo] semanas a partir del inicio.
