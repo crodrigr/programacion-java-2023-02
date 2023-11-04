@@ -1,8 +1,8 @@
-# Trabajo final
+# :volcano: Trabajo final
 
 <br>
 
-## 1. Problema
+## 1. Problema :fire:
 
 Una organización no gubernamental se encarga de enviar ayuda material (medicamentos y alimentos) y
 ayuda humanitaria (personal sanitario) a campos de refugiados. Esta organización obtiene sus ingresos de
@@ -26,7 +26,7 @@ medicamentos, debiéndose conocer el número de unidades de cada medicamento. De
 humanitaria se debe conocer el número de voluntarios que se mandan de cada profesión (por ejemplo: 10
 médicos, 20 ATS) y quienes son cada uno de ellos.
 
-## 2. Solución 
+## 2. Solución :trophy:
 
 ### Desarrollo de una API de Gestión para una Organización No Gubernamental de Ayuda Humanitaria
 
