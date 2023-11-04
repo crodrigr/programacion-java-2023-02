@@ -72,6 +72,7 @@ Se requiere el desarrollo de una API RESTful con Spring Boot para administrar un
 - Spring Data JPA para el acceso a la base de datos.
 - Usar DTO. En la capa externa (**controllers**) no se debe exponer las clases entities, por lo tanto, se debe usar DTO, además de ser un buena práctica se soluciona el problema de loop de **serializable** y no es necesario de resolverlo con **@JsonIgnoreProperties**
 - Base de datos relacional **H2** (Opcional por ejemplo, MySQL, PostgreSQL) para almacenar los datos.
+- Datos de prueba. Se debe tener un archivo **import.sql** que cargue datos de pruebas en todas la tablas. 
 
 
 **Entregables:**
