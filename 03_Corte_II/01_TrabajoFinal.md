@@ -66,19 +66,15 @@ Se requiere el desarrollo de una API RESTful con Spring Boot para administrar un
    - Consultar y actualizar información de envíos de ayuda humanitaria.
    - Listar envíos de ayuda humanitaria por profesión de los voluntarios.
 
-**Seguridad:**
-La API debe implementar un sistema de autenticación y autorización para proteger las operaciones de creación, actualización y eliminación.
 
 **Tecnologías Utilizadas:**
 - Spring Boot para el desarrollo del API RESTful.
 - Spring Data JPA para el acceso a la base de datos.
-- Base de datos relacional (por ejemplo, MySQL, PostgreSQL) para almacenar los datos.
-- Autenticación y autorización basada en tokens (por ejemplo, JWT).
+- Base de datos relacional **H2** (Opcional por ejemplo, MySQL, PostgreSQL) para almacenar los datos.
+
 
 **Entregables:**
-- Código fuente de la API desarrollada en Spring Boot.
-- Documentación de la API, incluyendo rutas, parámetros y ejemplos de uso.
-- Pruebas unitarias y de integración para garantizar la calidad del código.
+- Código fuente de la API desarrollada en Spring Boot.  
 
 **Plazo de Entrega:**
 El proyecto debe ser entregado en [indicar plazo] semanas a partir del inicio.
