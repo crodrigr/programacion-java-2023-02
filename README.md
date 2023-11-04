@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[Trabajo final - Corte III](https://github.com/crodrigr/programacion-java-2023-02/blob/master/03_Corte_II/01_TrabajoFinal.md)
+:volcano: [Trabajo final - Corte III](https://github.com/crodrigr/programacion-java-2023-02/blob/master/03_Corte_II/01_TrabajoFinal.md) :bomb:
 
 [Releaciones](https://www.adictosaltrabajo.com/2020/04/02/hibernate-onetoone-onetomany-manytoone-y-manytomany/)
 
