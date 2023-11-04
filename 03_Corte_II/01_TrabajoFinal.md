@@ -81,4 +81,3 @@ El proyecto debe ser entregado en [indicar plazo] semanas a partir del inicio.
 
 ---
 
-Este enunciado proporciona una descripción general del proyecto, sus requisitos funcionales y tecnologías clave. Asegúrate de ajustar el enunciado según los plazos y recursos disponibles para tu proyecto. Una vez que tengas este enunciado, puedes utilizarlo como guía para desarrollar tu API de Spring Boot y documentarla adecuadamente.
