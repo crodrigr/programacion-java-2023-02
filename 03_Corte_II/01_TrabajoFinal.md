@@ -83,7 +83,7 @@ Se requiere el desarrollo de una API RESTful con Spring Boot para administrar un
 - Diagrama de clases
 
 **Plazo de Entrega:**
-El proyecto debe ser entregado en [indicar plazo] semanas a partir del inicio.
+El proyecto debe ser entregado para el 2 de Diciembre.
 
 ---
 
