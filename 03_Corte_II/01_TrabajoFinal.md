@@ -52,22 +52,8 @@ Se requiere el desarrollo de una API RESTful con Spring Boot para administrar un
    - Listar voluntarios por profesión y sede.
 
 4. **Gestión de Envíos de Ayuda:**
-   - Registrar envíos con información de destino, fecha de salida y organización de sedes involucradas.
-   - Consultar, actualizar y eliminar información de envíos existentes.
-   - Listar envíos por destino y fecha de salida.
-
-5. **Gestión de Ayuda Material:**
-   - Registrar envíos de ayuda material, especificando los alimentos y medicamentos enviados.
-   - Consultar y actualizar información de envíos de ayuda material.
-   - Listar envíos de ayuda material por tipo de ayuda (alimentos o medicamentos).
-
-6. **Gestión de Ayuda Humanitaria:**
-   - Registrar envíos de ayuda humanitaria, incluyendo el número y detalle de voluntarios involucrados.
-   - Consultar y actualizar información de envíos de ayuda humanitaria.
-   - Listar envíos de ayuda humanitaria por profesión de los voluntarios.
-
-8. **Reportes**
-   - En construcción. 
+   - Crear un nuevo envio: datos del envio, idrefugio, detalles del envio y sedes.
+   - Obtener un envio por id. Que trae los datos del envio, detalles del envio, datos completos del refugio, y datos completos de las sedes. 
 
 
 **Tecnologías Utilizadas:**
